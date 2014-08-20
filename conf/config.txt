@@ -1,0 +1,4 @@
+address=192.168.1.131   #服务器地址
+port=8989     #端口
+word_lib=../data/word_lib.dat   #选用的词典文件
+cache=../data/cache.dat     #磁盘cache文件
